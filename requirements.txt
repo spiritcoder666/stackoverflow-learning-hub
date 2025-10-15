@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+nltk
+pyarrow
+requests
